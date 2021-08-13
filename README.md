@@ -20,3 +20,21 @@ Learning Outcomes
 "Complete to capital letter constants"
 "Complete variable tasks"
 
+Knowledge check on numbers:
+
+    Name the three ways to declare a variable?
+    Which of the three variable declarations should you avoid and why?
+    What rules should you follow when naming variables?
+    What should you look out for when using the + operator with numbers and strings?
+    How does the % operator work?
+    Explain the difference between == and ===.
+    When would you receive a NaN result?
+    How do you increment and decrement a number?
+    Explain the difference between prefixing and post-fixing increment/decrement operators.
+    What is operator precedence and how is it handled in JS?
+    How do you access developer tools and the console?
+    How do you log information to the console?
+    What does unary plus operator do to string representations of integers?
+
+"Start knowledge check on numbers"
+
