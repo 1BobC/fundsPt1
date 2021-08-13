@@ -40,3 +40,17 @@
 // alert(color); // #FF7F00
 // console.log(color);
 
+//tasks - working with variables
+// let name='John';
+// let admin;
+// admin=name;
+// alert(admin);
+
+// //- giving the right name
+// let planet='earth';
+// alert(planet);
+
+// let currentVisitor='roco';
+// alert(currentVisitor);
+//end of tasks
+

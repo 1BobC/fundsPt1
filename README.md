@@ -18,4 +18,5 @@ Learning Outcomes
 
 "Create project files and do 'a variable' exercises"
 "Complete to capital letter constants"
+"Complete variable tasks"
 
