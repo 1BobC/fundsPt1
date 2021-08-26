@@ -1,7 +1,7 @@
 body{
     background-color: lavenderblush;
 }
-h1{
+h1, h3, p, li{
     color: indianred;
     text-align: center;
 }

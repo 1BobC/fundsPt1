@@ -38,4 +38,5 @@ Knowledge check on numbers:
 
 "Start knowledge check on numbers"
 "Complete Fundementals Pt1"
+"Back to Pt1 for some questions I need to revise but also finding python is stopping normal html coding assists form working??"
 
